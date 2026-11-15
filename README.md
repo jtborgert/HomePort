@@ -174,4 +174,4 @@ PYTHONPATH=src python3 -m unittest discover -s tests -v
 
 ## License
 
-MIT License.
+GPLv3.
