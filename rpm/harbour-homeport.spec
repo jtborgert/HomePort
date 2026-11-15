@@ -1,13 +1,12 @@
 Name:       harbour-homeport
 Summary:    HomePort - Homey Pro Client for Sailfish OS
 Version:    0.3.0
-Release:    1
+Release:    2
 License:    GPLv3
 URL:        https://github.com/jtborgert/HomePort
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   sailfishsilica-qt5 >= 0.10.9
 Requires:   pyotherside-qml-plugin-python3-qt5
-Requires:   python3-base
 BuildRequires:  pkgconfig(sailfishapp) >= 1.0.2
 BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Qml)
