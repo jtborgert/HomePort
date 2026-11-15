@@ -1,0 +1,30 @@
+# Environment variables and API secrets
+.env
+.env.local
+.env.*.local
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# C++ and Qt build files
+*.o
+harbour-homeport
+Makefile
+*.pro.user
+*.pro.user.*
+.qmake.stash
+
+# Distribution / packaging
+RPMS/
+*.rpm
+
+# System and editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.tmp

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-homeport
+Exec=harbour-homeport
+Name=HomePort
+Name[de]=HomePort
+
+[X-Sailjail]
+Permissions=Internet;Network;UserDirs
+OrganizationName=de.tobias-borgert
+ApplicationName=harbour-homeport
